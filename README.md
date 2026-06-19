@@ -1,17 +1,8 @@
 # Hi there, I'm Sounok Ghosh 👋
 
 <div align="center">
-  <!-- Replace with your generated custom banner -->
-  <img src="assets/profile-banner.png" alt="Sounok Ghosh Profile Banner" width="100%" />
-</div>
-
-<div align="center">
   <h3>🚀 3rd Year CSE Student @ IEM Kolkata | Full-Stack Developer</h3>
   <p>Building scalable web architectures and efficient backend systems.</p>
-  
-  <a href="https://github.com/Sounok19">
-    <img src="https://komarev.com/ghpvc/?username=Sounok19&color=blueviolet&style=flat-square" alt="Profile Views" />
-  </a>
 </div>
 
 ---
@@ -28,7 +19,6 @@ I'm a computer science engineering student passionate about full-stack web devel
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Using Shields.io badges as subtle animated visualizations -->
 **Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -56,75 +46,26 @@ I'm a computer science engineering student passionate about full-stack web devel
 
 ### 🚀 Featured Projects
 
-<div align="center">
+#### ⚙️ [ai-job-queue](https://github.com/Sounok19/ai-job-queue)
+A robust Node.js and TypeScript architecture designed for handling asynchronous AI tasks and processes efficiently. 
+* **Focus:** High-performance task queuing and scalable backend architecture.
 
-  <!-- Project 1 -->
-  <table border="0">
-    <tr>
-      <td width="200px" align="center">
-        <!-- Replace with ai-job-queue icon -->
-        <img src="assets/ai-job-queue-icon.png" alt="ai-job-queue icon" width="100px" />
-      </td>
-      <td>
-        <h4>⚙️ <a href="https://github.com/Sounok19/ai-job-queue">ai-job-queue</a></h4>
-        A robust Node.js and TypeScript architecture designed for handling asynchronous AI tasks and processes efficiently. 
-        <br><i>Focus: High-performance task queuing and scalable backend architecture.</i>
-      </td>
-    </tr>
-  </table>
+#### 🛒 [Course-selling-app](https://github.com/Sounok19/Course-selling-app)
+A complete MERN-stack e-learning platform showcasing end-to-end CRUD operations, database management, and secure user authentication.
+* **Focus:** Full-stack integration, RESTful APIs, and seamless user experiences.
 
-  <!-- Project 2 -->
-  <table border="0">
-    <tr>
-      <td width="200px" align="center">
-        <!-- Replace with Course-selling-app icon -->
-        <img src="assets/course-selling-icon.png" alt="Course Selling App icon" width="100px" />
-      </td>
-      <td>
-        <h4>🛒 <a href="https://github.com/Sounok19/Course-selling-app">Course-selling-app</a></h4>
-        A complete MERN-stack e-learning platform showcasing end-to-end CRUD operations, database management, and secure user authentication.
-        <br><i>Focus: Full-stack integration, RESTful APIs, and seamless user experiences.</i>
-      </td>
-    </tr>
-  </table>
+#### 💳 [upi-offline-payment-system](https://github.com/Sounok19/upi-offline-payment-system)
+A conceptual system designed to tackle payment reliability and ensure transaction continuity even without active internet connections.
+* **Focus:** Systems architecture and creative problem-solving for real-world constraints.
 
-  <!-- Project 3 -->
-  <table border="0">
-    <tr>
-      <td width="200px" align="center">
-        <!-- Replace with upi-offline icon -->
-        <img src="assets/upi-offline-icon.png" alt="UPI Offline icon" width="100px" />
-      </td>
-      <td>
-        <h4>💳 <a href="https://github.com/Sounok19/upi-offline-payment-system">upi-offline-payment-system</a></h4>
-        A conceptual system designed to tackle payment reliability and ensure transaction continuity even without active internet connections.
-        <br><i>Focus: Systems architecture and creative problem-solving for real-world constraints.</i>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Project 4 -->
-  <table border="0">
-    <tr>
-      <td width="200px" align="center">
-        <!-- Replace with federated-learning icon -->
-        <img src="assets/federated-learning-icon.png" alt="Federated Learning icon" width="100px" />
-      </td>
-      <td>
-        <h4>🧠 <a href="https://github.com/Sounok19/federated-learning-pytorch">federated-learning-pytorch</a></h4>
-        Explorations into distributed machine learning using PyTorch, focusing on decentralized data processing where the model is brought directly to the data.
-        <br><i>Focus: Privacy-preserving AI and Python ecosystems.</i>
-      </td>
-    </tr>
-  </table>
-
-</div>
+#### 🧠 [federated-learning-pytorch](https://github.com/Sounok19/federated-learning-pytorch)
+Explorations into distributed machine learning using PyTorch, focusing on decentralized data processing where the model is brought directly to the data.
+* **Focus:** Privacy-preserving AI and Python ecosystems.
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
-<!-- These are dynamic "animations" that update automatically -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sounok19&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Sounok's Activity Graph" width="100%" />
 </div>
